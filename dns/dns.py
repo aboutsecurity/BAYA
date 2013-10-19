@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python2.7
 
 # DNS Parser - Uses Dug Song's dpkt
 # Version 1
